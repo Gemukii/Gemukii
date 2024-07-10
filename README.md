@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am an engineering student with a passion for cyb
 - **French**: Native
 - **English**: B1+
 
-## 📂 Projects 
+## 📂 Personal Projects 
 ### [Project 1: Password checker](https://github.com/Gemukii/pass-checker)
 - **Description**: A script that checks the strength of a password based on some criteria
 - **Technologies Uses**: python
