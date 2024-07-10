@@ -29,7 +29,9 @@ Welcome to my GitHub profile! I am an engineering student with a passion for cyb
 ### [Project 1: Password checker](https://github.com/Gemukii/pass-checker)
 - **Description**: A script that checks the strength of a password based on some criteria
 - **Technologies Uses**: python
+- **Status**: ✅
 
 ### [Project 2: Simple network scanning](https://github.com/Gemukii/Net-Scan)
 - **Description**: A simple network scanning to get more comprehension of python
 - **Technologies Uses**: python
+- **Status**: ❌
