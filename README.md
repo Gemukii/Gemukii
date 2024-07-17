@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋
 
 Welcome to my GitHub profile! I am an engineering student with a passion for cybersecurity. Here’s a brief overview of my skills, projects, and aspirations in the field of cybersecurity.
 
