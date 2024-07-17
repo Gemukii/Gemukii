@@ -1,7 +1,3 @@
-##👋
-
-Welcome to my GitHub profile! I am an engineering student with a passion for cybersecurity. Here’s a brief overview of my skills, projects, and aspirations in the field of cybersecurity.
-
 ## 🔧 Technical Skills
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
