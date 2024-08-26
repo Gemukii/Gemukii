@@ -30,4 +30,9 @@
 ### [Project 2: Simple network scanning](https://github.com/Gemukii/Net-Scan)
 - **Description**: A simple network scanning to get more comprehension of python
 - **Technologies Uses**: python
-- **Status**: ❌
+- **Status**: ✅
+
+### [Project_3: Keylogger](https://github.com/Gemukii/Keylogger)
+- **Description**: A simple keylogger to try to get information about a password using a discord bot for the report
+- **Technologies Uses**: Python, discord bot
+- **Status**: Not finish
