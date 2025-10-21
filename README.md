@@ -19,6 +19,6 @@
 
 ## 🌐 Languages
 - **French**: Native
-- **English**: B1+
+- **English**: C1
 
 
