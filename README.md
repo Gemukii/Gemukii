@@ -93,7 +93,7 @@ The project focuses on automation, scheduled tasks and delivering a practical cy
 **Technologies:**  
 `Python` `Discord.py` `Docker` `Automation`
 
-👉 **[View the project](YOUR_DISCORD_BOT_REPOSITORY_LINK)**
+👉 **[View the project](https://github.com/Gemukii/CyberWatch)**
 
 ---
 
@@ -106,7 +106,7 @@ The project recreates battle situations and challenges players to find the best 
 **Technologies:**  
 `Next.js` `React` `TypeScript`
 
-👉 **[View the project](YOUR_POKEMON_REPOSITORY_LINK)**
+👉 **[View the project](https://github.com/Gemukii/Pokestrat_daily)**
 
 ---
 
